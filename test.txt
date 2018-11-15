@@ -1,0 +1,3 @@
+This is a text file
+
+<div>Some content</div>
